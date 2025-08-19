@@ -1,15 +1,43 @@
-# 🎁 Amigo Secreto
-Aplicación sencilla en JavaScript que permite ingresar nombres y realizar un sorteo para elegir al **amigo secreto**
+# 🎁 Proyecto: Amigo Secreto
 
-## 🚀 Cómo usar
+Este proyecto permite ingresar una lista de nombres para un juego de **Amigo Secreto**, y luego selecciona al azar a un amigo secreto para cada participante.
+
+Ideal para organizar dinámicas divertidas entre amigos, familia o compañeros de trabajo.
+
+---
+
+## 📸 Captura de pantalla
+
+![Captura del proyecto](./screenshots/captura.png)
+
+---
+
+## 🚀 ¿Cómo funciona?
+
 1. Ingresa los nombres de tus amigos en el campo de texto.
 2. Presiona el botón **Añadir amigos** para añadirlos a la lista.
 3. Una vez ingresados, presiona **Sortear amigo** y aparecerá el resultado.
+---
 
-## 🛠️ Tecnologías utilizadas
+## 🛠 Tecnologías usadas
+
 - HTML
 - CSS
 - JavaScript
+- Visual Studio Code
 
-## 👩‍💻 Autor
-Persida Retamal
+---
+
+## 💡 Ideas para mejorar (futuro)
+
+- Evitar que alguien se asigne a sí mismo.
+- Enviar resultados por correo o mensaje.
+- Añadir animaciones o sonidos festivos.
+
+---
+
+## 👤 Autor
+
+- dailamoss
+
+
